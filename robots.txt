@@ -1,0 +1,3 @@
+User-agent: * 
+Allow: /
+https://05.dontkillmyapp.com/sitemap.xml
